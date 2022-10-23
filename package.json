@@ -1,0 +1,17 @@
+{
+  "name": "tarea2",
+  "version": "0.0.1",
+  "description": "tarea1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zamira Rivera",
+  "license": "ISC",
+  "keywords": [
+    "actividad",
+    "categoria",
+    "valor",
+    "disponible"
+  ]
+}
